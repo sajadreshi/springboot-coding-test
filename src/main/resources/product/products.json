@@ -1,0 +1,139 @@
+{
+	"productBeans": [
+		{
+			"productId": "100001",
+			"productCode": "167891L",
+			"brandCode": "1001",
+			"productName": "Floral Embrace",
+			"productDescription": "Each arrangement is uniquely crafted by a local florist using the freshest blooms available regionally. While there may be some variations from the photo shown.",
+			"imageUrl": "https://cdn3.1800flowers.com/wcsstore/Flowers/imag…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 69.99
+		},
+		{
+			"productId": "100002",
+			"productCode": "101980LYSP",
+			"brandCode": "1001",
+			"productName": "Classic Budding Rose",
+			"productDescription": "Our pink rose plant is a true classic. Designed in a rose-patterned planter with an elegant gold scalloped rim, it brings timeless beauty to the home or garden.",
+			"imageUrl": "https://cdn1.1800flowers.com/wcsstore/Flowers/imag…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 67.99
+		},
+		{
+			"productId": "100003",
+			"productCode": "192552L",
+			"brandCode": "1029",
+			"productName": "Gourmet Drizzled Strawberries",
+			"productDescription": "You don’t need to be a connoisseur to appreciate these gourmet treats. Fresh, juicy strawberries are dipped and drizzled to perfection.",
+			"imageUrl": "https://cdn4.fruitbouquets.com/wcsstore/Flowers/im…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 74.99
+		},
+		{
+			"productId": "100004",
+			"productCode": "163904",
+			"brandCode": "1025",
+			"productName": "Simply Chocolate Birthday",
+			"productDescription": "Make their birthday extra special with this decadent chocolate collection! Our team at Simply Chocolate has spent countless hours working with an artisan chocolatier.",
+			"imageUrl": "https://cdn3.simplychocolate.com/wcsstore/SimplyCh…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 29.99
+		},
+		{
+			"productId": "100005",
+			"productCode": "174774",
+			"brandCode": "1009",
+			"productName": "Spring Celebrations Premium Fruits Gift Basket",
+			"productDescription": "Our fruit baskets are packed to order on the day that they are shipped to ensure maximum freshness.",
+			"imageUrl": "https://cdn1.1800baskets.com/wcsstore/Baskets/imag…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 55.99
+		},
+		{
+			"productId": "100006",
+			"productCode": "167417",
+			"brandCode": "1010",
+			"productName": "Our Thoughts Are With You",
+			"productDescription": "When words aren’t enough, our nourishing fruit arrangement will let them know your thoughts are with them.",
+			"imageUrl": "https://cdn3.1800flowers.com/wcsstore/Flowers/images/catalog/167289x.jpg?auto=webp&optimize={medium}",
+			"productPrice": 79.99
+		},
+		{
+			"productId": "100007",
+			"productCode": "279811",
+			"brandCode": "1012",
+			"productName": "Our Best of Buttercream Cookie Boxes",
+			"productDescription": "Buttercream Frosted Cut-Out Cookies,Fudge Buttercream Frosted Chocolate Chocolate Cookie",
+			"imageUrl": "https://cdn1.cheryls.com/wcsstore/CherylAndCompany…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 20.99
+		},
+		{
+			"productId": "100008",
+			"productCode": "P240040",
+			"brandCode": "1002",
+			"productName": "Birthday Wishes Popcorn Tins",
+			"productDescription": "Butter Popcorn – The popcorn classic with freshly popped kernels and buttery deliciousness.",
+			"imageUrl": "https://cdn2.thepopcornfactory.com/wcsstore/ThePop…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 64.99
+		},
+		{
+			"productId": "100009",
+			"productCode": "280331",
+			"brandCode": "1012",
+			"productName": "Buttercream Frosted Spring Bow Gift Box, Buttercream Frosted Key Lime White Chip Cookies",
+			"productDescription": "Buttercream Frosted Peaches And Cream Cookies,",
+			"imageUrl": "https://cdn2.cheryls.com/wcsstore/CherylAndCompany…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 20.99
+		},
+		{
+			"productId": "100010",
+			"productCode": "P227040",
+			"brandCode": "1002",
+			"productName": "Rainbow Fusion Popcorn Tins",
+			"productDescription": "Cheese Popcorn – A must for any popcorn fan. When you think of cheese popcorn, this is it!.",
+			"imageUrl": "https://cdn1.thepopcornfactory.com/wcsstore/ThePop…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 20.99
+		},
+		{
+			"productId": "100011",
+			"productCode": "32076X",
+			"brandCode": "1019",
+			"productName": "Birthday Gift Tower",
+			"productDescription": "Signature chocolate truffles [coffee, cherry, raspberry, almond, all dark, milk chocolate].",
+			"imageUrl": "Signature chocolate truffles [coffee, cherry, raspberry, almond, all dark, milk chocolate]",
+			"productPrice": 59.99
+		},
+		{
+			"productId": "100012",
+			"productCode": "34079X",
+			"brandCode": "1019",
+			"productName": "Belgian Chocolate-Dipped Dried Fruit",
+			"productDescription": "Belgian chocolate half-dipped dried fruit.Dark chocolate-dipped kiwi.",
+			"imageUrl": "https://cdn2.harryanddavid.com/wcsstore/HarryAndDa…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 69.99
+		},
+		{
+			"productId": "100013",
+			"productCode": "34358X",
+			"brandCode": "1019",
+			"productName": "Peach Gardenia Candle",
+			"productDescription": "2-wick wax candle, 4 in L x 3.5 in W x 4 in H (10.1 cm x 8.8 cm x 10.1 cm), 15 oz.",
+			"imageUrl": "https://cdn2.harryanddavid.com/wcsstore/HarryAndDa…4358_30GK_66_008x.jpg?auto=webp&optimize={medium}",
+			"productPrice": 20.99
+		},
+		{
+			"productId": "100014",
+			"productCode": "2305W",
+			"brandCode": "1020",
+			"productName": "Favorite Flavors Sampler",
+			"productDescription": "Super-thick English muffins, 4 pkgs. (4 muffins, 14.5 oz each pkg.)San Francisco-style sourdough.",
+			"imageUrl": "https://cdn1.wolfermans.com/wcsstore/Wolfermans/im…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 24.99
+		},
+		{
+			"productId": "100015",
+			"productCode": "51640W",
+			"brandCode": "1020",
+			"productName": "Maple-Glazed Sweet Rolls",
+			"productDescription": "6 maple-glazed sweet rolls (4.8 oz each).Net Weight: 1 lb 13 oz",
+			"imageUrl": "https://cdn1.wolfermans.com/wcsstore/Wolfermans/im…height=597&quality=80&auto=webp&optimize={medium}",
+			"productPrice": 24.99
+		}
+	]
+}
