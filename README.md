@@ -9,7 +9,7 @@
 (Alternatively, if you have STS toolkit installed in IDE, you can run application as springboot from IDE)
 
 
-** What to do ?**
+**What to do ?**
 
 Coding test application allows CRUD operations on hypothetical noun called Product. However, not all methods have been implemented. You are required to perform following tasks.
 
@@ -26,7 +26,7 @@ Coding test application allows CRUD operations on hypothetical noun called Produ
 
 
 
-** Postman Collection**
+**Postman Collection**
 
 Import this collection in postman for quick test.
 
